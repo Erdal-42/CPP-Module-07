@@ -58,7 +58,6 @@ std::exception is thrown.
 - A member function size() that returns the number of elements in the array. This
 member function takes no parameter and musn’t modify the current instance.
 
-As usual, ensure everything works as expected and turn in a main.cpp file that con-
-tains your tests.
+As usual, ensure everything works as expected and turn in a main.cpp file that contains your tests.
 
 ---
